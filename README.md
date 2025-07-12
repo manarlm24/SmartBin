@@ -55,7 +55,7 @@ The system follows these 4 main steps:
 
 ## 📊 Dataset
 
-Details in [`dataset/README.md`](dataset/README.md)
+Details in [`dataset/README.md`](Dataset/README.md)
 
 ---
 
@@ -63,9 +63,9 @@ Details in [`dataset/README.md`](dataset/README.md)
 
 ```bash
 SmartBin-AI/
-├── dataset/           # Dataset structure and sample images
+├── Dataset/           # Dataset structure and sample images
 ├── model/             # Training notebooks and exported models
-├── raspberry_pi/      # Real-time control script for Raspberry Pi     
+├── raspberry-pi/      # Real-time control script for Raspberry Pi     
 ├── docs/              #  images (e.g., diagrams)
 ├── requirements.txt   # Python dependencies
 └── README.md          
